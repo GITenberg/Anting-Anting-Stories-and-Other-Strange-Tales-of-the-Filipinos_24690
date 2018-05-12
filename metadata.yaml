@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '26676'
     url: http://www.gutenberg.org/2009/agents/26676
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24690#Anting-Anting-Stories-and-Other-Strange-Tales-of-the-Filipinos
 gutenberg_issued: '2008-02-26'
 gutenberg_type: Text
 identifiers:
