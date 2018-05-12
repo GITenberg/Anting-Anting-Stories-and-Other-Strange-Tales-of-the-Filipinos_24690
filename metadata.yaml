@@ -1,0 +1,30 @@
+_repo: Anting-Anting-Stories-and-Other-Strange-Tales-of-the-Filipinos_24690
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Kayme, Sargent
+    gutenberg_agent_id: '26676'
+    url: http://www.gutenberg.org/2009/agents/26676
+description: ''
+gutenberg_issued: '2008-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24690'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Philippine-American War -- Fiction'
+- !lcsh 'Americans -- Philippines -- Fiction'
+- !lcsh 'Philippines -- Social life and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: The anting-anting of Captain Von Tollig -- The cave in the side of
+  Coron -- The conjure man of Siargao -- Mrs. Hannah Smith, nurse -- The fifteenth
+  wife -- "Our lady of Pilar" -- A question of time -- The spirit of Mount Apo --
+  With what measure ye mete -- Told at the club -- Pearls of Sulu.
+title: Anting-Anting Stories, and Other Strange Tales of the Filipinos
+url: http://www.gutenberg.org/ebooks/24690
